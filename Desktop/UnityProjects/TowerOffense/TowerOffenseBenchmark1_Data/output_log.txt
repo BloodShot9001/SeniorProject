@@ -1,0 +1,93 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7866
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.395 seconds
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\System.dll (this message is harmless)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7866
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+<RI> Initializing input.
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+<RI> Input initialized.
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Luke\Desktop\UnityProjects\TowerOffense\TowerOffenseBenchmark1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 89.994102 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 296c -> priority: 1 
+  Thread -> id: 6cc -> priority: 1 
+  Thread -> id: 67c -> priority: 1 
+  Thread -> id: 2d8 -> priority: 1 
+Collision just happened
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision was with a Projectile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision just happened
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision was with a Projectile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision just happened
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision was with a Projectile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision just happened
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision was with a Projectile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision just happened
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision was with a Projectile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
